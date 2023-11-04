@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-eso-serverstatus",
+  "description": "通过PUPPETEER来对ESO(上古卷轴OL)监听服务器状态",
+  "version": "0.0.8",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.15.1"
+  }
+}
